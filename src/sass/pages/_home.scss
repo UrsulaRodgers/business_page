@@ -1,0 +1,173 @@
+.container {
+  margin:2rem auto 2rem auto;
+  max-width:85%;
+  background-color: #F7FAF7;
+  border-radius:.5rem;
+
+  @include tab-land {
+    width:75%;
+  }
+}
+
+.page-top {
+  width:100%;
+  border-top-left-radius: .5rem;
+  border-top-right-radius: .5rem;
+  background-image: linear-gradient(to bottom, $color-yellow-light, $color-yellow-dark);
+
+  @include tab-port {
+    overflow: hidden;
+  }
+}
+
+.contact-banner {
+  position:relative;
+  width:100%;
+  line-height:1.5;
+  height:20vh;
+
+  @include phone {
+    height:30vh;
+  }
+
+  @include phone-large {
+    line-height: 1.7;
+  }
+
+  @include tab-port {
+    height:35vh;
+  }
+
+  @include laptop {
+    height:50vh;
+  }
+
+  @include laptop-large {
+    height:50vh;
+    line-height:2;
+  }
+
+  &__kitchen-img {
+    width:100%;
+    height:20vh;
+    opacity:.2;
+    display:block;
+
+    @include phone {
+      height:30vh;
+    }
+
+    @include tab-port {
+    height:35vh;
+  }
+
+    @include laptop {
+    height:50vh;
+  }
+  }
+
+  &__image-text {
+    width:100%;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    text-align:center;
+  }
+
+  &__locations {
+    color: $color-red;
+    font-size:1rem;
+    font-weight:600;
+
+    @include tab-port {
+      font-size:1.2rem;
+    }
+
+
+    @include tab-land {
+      font-size:1.5rem;
+    }
+
+    @include laptop-large {
+      font-size:2rem
+    }
+
+    &--location-item {
+      display:inline;
+      margin-right:.3rem;
+    }
+  }
+
+  &__please-call {
+    font-size: 2rem;
+    font-weight:600;
+    color:$color-orange-2;
+
+    @include tab-port {
+      font-size:2.4rem;
+    }
+
+    @include tab-land {
+      font-size:3rem;
+    }
+
+    @include laptop-large {
+      font-size:3.75rem
+    }
+  }
+
+  &__phone-number {
+    font-size:1.5rem;
+    font-weight:600;
+    color:$color-red-dark;
+
+
+    @include tab-port {
+      font-size:1.8rem;
+    }
+
+    @include tab-land {
+      font-size:2.25rem;
+    }
+
+    @include laptop-large {
+      font-size:2.7rem
+    }
+
+  }
+
+
+}
+
+.page-middle {
+  width:100%;
+  margin:0 auto;
+}
+
+.clearfix::after {
+  content:'';
+  clear: both;
+  display: block;
+}
+
+.contact {
+  font-size:1.2rem;
+  width:100%;
+  float:none;
+  margin-top:1.6rem;
+  text-align:center;
+
+  @include tab-land {
+    width: 50%;
+    float:right;
+  }
+}
+
+.page-bottom {
+  width:100%;
+
+  @include tab-land {
+    margin-top: 3%;
+  }
+}

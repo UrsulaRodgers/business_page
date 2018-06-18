@@ -1,0 +1,52 @@
+.business-logo {
+
+	display: block;
+	width:20%;
+  	margin: 0 auto;
+
+  	@include tab-port {
+		margin: 0;
+		float: left;
+		width:25%;
+	}
+	
+	/*&__left {
+		width: 25%;
+		display: table-cell;
+	}
+
+	&__right {
+		width: 75%;
+		display: table-cell;
+		vertical-align:middle;
+		
+	}*/
+
+	&__logo-img {
+  		max-width:100%;
+  		height:auto;
+  		padding: .5rem;
+
+  		@include tab-port {
+			max-width:60%;
+			padding: 1rem;
+		}
+
+		@include laptop {
+			max-width:45%;
+		}
+  	}
+
+	/*&__name {
+		font-size:1.1rem;
+		text-align:center;
+		text-transform: uppercase;
+		background-image: linear-gradient(to right, $color-orange, $color-red);
+		-webkit-background-clip: text;
+		//allows the clipped background to be visible
+		color:transparent;
+
+
+		
+	}*/
+}

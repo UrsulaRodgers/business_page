@@ -1,0 +1,34 @@
+.checkatrade-ratings {
+  text-align:center;
+  font-size:1.2rem;
+  width:100%;
+  margin-top:3rem;
+
+  @include tab-land {
+    margin-top: 0;
+  }
+
+  @include tab-land {
+    width: 50%;
+    float: left;
+  }
+
+  &__heading {
+  	color: $color-red;
+
+    @include tab-land {
+      font-size:1.5rem;
+    }
+  }
+
+  &__img {
+  	height:auto;
+  	max-width:50%;
+  	margin-top:.5rem;
+  	margin-bottom:1.6rem;
+
+    @include tab-land {
+      margin-top:5%;
+    }
+  }
+}

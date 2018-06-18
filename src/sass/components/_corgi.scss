@@ -1,0 +1,30 @@
+.corgi {
+
+	width:60%;
+	margin:0 auto;
+
+	@include tab-port {
+		width:35%;
+		margin: 0;
+		float: right;
+	}
+
+	@include laptop {
+		width:25%;
+		margin: 0;
+		float: right;
+	}
+
+
+	&__corgi-logo {
+	  height:auto;
+	  width:100%;
+	  display:block;
+	  margin:0 auto;
+	  padding-bottom: 1rem;
+
+	  @include tab-port {
+			padding: 1rem;
+		}
+	}
+}

@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"anim",
+				"animation-duration"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"key",
+				"keyPressHandler"
+			],
+			[
+				"ad",
+				"addSmoothScrolling"
+			],
+			[
+				"create",
+				"createPageSectionWaypoints"
+			],
+			[
+				"page",
+				"pageSections"
+			],
+			[
+				"testimonials",
+				"testimonials-link"
+			],
+			[
+				"features",
+				"features-link"
+			],
+			[
+				"our-be",
+				"our-beginning-link"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"men",
+				"menuIcon"
+			],
+			[
+				"menu",
+				"menuContent"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"fav",
+				"favColour"
+			],
+			[
+				"copy",
+				"copySpriteGraphic"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"netw",
+				"networkResponse"
+			],
+			[
+				"ne",
+				"networkResponse"
+			],
+			[
+				"request",
+				"requestUrl"
+			],
+			[
+				"ob",
+				"objectStore"
+			],
+			[
+				"o",
+				"objectStore"
+			],
+			[
+				"read",
+				"readwrite"
+			],
+			[
+				"respon",
+				"respondWith"
+			],
+			[
+				"e",
+				"addEventListener"
+			],
+			[
+				"req",
+				"reqInterceptor"
+			],
+			[
+				"in",
+				"interested"
+			],
+			[
+				"s",
+				"showSideMenu"
+			],
+			[
+				"p",
+				"purchaseCanceledHandler"
+			],
+			[
+				"ingr",
+				"ingredientSummary"
+			],
+			[
+				"upda",
+				"updatedIngredients"
+			],
+			[
+				"up",
+				"updatePurchaseState"
+			],
+			[
+				"Burger",
+				"BurgerIngredients"
+			],
+			[
+				"isntall",
+				"installing"
+			],
+			[
+				"service",
+				"serviceWorker"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"ur",
+				"urlsToCache"
+			],
+			[
+				"ser",
+				"serviceWorker"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Ingredient",
+				"IngredientList"
+			],
+			[
+				"new",
+				"newRecipe"
+			],
+			[
+				"Ingredien",
+				"IngredientList"
+			],
+			[
+				"INgred",
+				"IngredientList"
+			],
+			[
+				"ingred",
+				"ingredient"
+			],
+			[
+				"su",
+				"submitRecipe"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"experie",
+				"experiencesArray"
+			],
+			[
+				"render",
+				"renderExperiences"
+			],
+			[
+				"sound",
+				"soundOff"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"rand",
+				"randomNumberArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"se",
+				"Set Syntax: SCSS"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ursula/Documents/workspace/maciak",
+		"/home/ursula/Documents/workspace/maciak/config",
+		"/home/ursula/Documents/workspace/maciak/src",
+		"/home/ursula/Documents/workspace/maciak/src/components",
+		"/home/ursula/Documents/workspace/maciak/src/sass",
+		"/home/ursula/Documents/workspace/maciak/src/sass/pages"
+	],
+	"file_history":
+	[
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_form.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_services.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/pages/_home.scss",
+		"/home/ursula/Documents/workspace/maciak/src/components/Contact.js",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_gas-hob.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_checkatrade-ratings.scss",
+		"/home/ursula/Documents/workspace/maciak/src/App.js",
+		"/home/ursula/Documents/workspace/maciak/src/sass/abstract/_mixins.scss",
+		"/home/ursula/Documents/workspace/maciak/src/components/CheckTrade.js",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_contact.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_corgi.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_business-logo.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_corgi-logo.scss",
+		"/home/ursula/Documents/workspace/maciak/src/sass/base/_typography.scss",
+		"/home/ursula/Documents/workspace/maciak/public/index.html",
+		"/home/ursula/Documents/workspace/maciak/src/index.css",
+		"/home/ursula/Documents/workspace/maciak/src/sass/components/_logo.scss",
+		"/home/ursula/Documents/workspace/maciak/src/logo.svg",
+		"/home/ursula/Documents/workspace/maciak/src/sass/base/_base.scss",
+		"/home/ursula/Documents/workspace/maciak/package.json",
+		"/home/ursula/Documents/workspace/maciak/config/webpack.config.dev.js",
+		"/home/ursula/Documents/workspace/maciak/config/webpack.config.prod.js",
+		"/home/ursula/Documents/workspace/sass-test/src/sass/main.scss",
+		"/home/ursula/Documents/workspace/sass-test/config/webpack.config.dev.js",
+		"/home/ursula/Documents/workspace/sass-test/config/webpack.config.prod.js",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_form.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_button.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/layout/_footer.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/base/_utilities.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_bg-video.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_story.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/css/style.css",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/layout/_grid.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_feature-box.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_card.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/abstracts/_variables.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/layout/_header.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/base/_typography.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/pages/_home.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/components/_composition.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/abstracts/_mixins.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/abstracts/_functions.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/package.json",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/base/_base.scss",
+		"/home/ursula/Documents/workspace/advanced-css/advanced-css-course/Natours/starter/sass/base/_animations.scss",
+		"/home/ursula/Documents/workspace/Maciak/business-page/src/components/CheckTrade.js",
+		"/home/ursula/Documents/workspace/Maciak/business-page/src/components/Contact.js",
+		"/home/ursula/Documents/workspace/Maciak/business-page/public/index.html",
+		"/home/ursula/Documents/workspace/Maciak/business-page/src/App.css",
+		"/home/ursula/Documents/workspace/Maciak/business-page/src/App.js",
+		"/home/ursula/Documents/workspace/personal-site/portfolio.css",
+		"/home/ursula/Documents/workspace/personal-site/my-projects.html",
+		"/home/ursula/Documents/workspace/FCCProjects/wikiviewer/wikiviewer.js",
+		"/home/ursula/Documents/workspace/FCCProjects/wikiviewer/wikiviewer.html",
+		"/home/ursula/Documents/workspace/FCCProjects/wikiviewer/wikiviewer.css",
+		"/media/ursula/UBUNTU 17_1/learningjs/wikiviewer/wikiviewer.js",
+		"/media/ursula/UBUNTU 17_1/learningjs/wikiviewer/wikiviewer.css",
+		"/home/ursula/Documents/workspace/learningjs/wikiviewer/wikiviewer.css",
+		"/home/ursula/Documents/workspace/learningjs/wikiviewer/wikiviewer.html",
+		"/home/ursula/Documents/workspace/learningjs/wikiviewer/wikiviewer.js",
+		"/media/ursula/UBUNTU 17_1/learningjs/wikiviewer/wikiviewer.html",
+		"/media/ursula/UBUNTU 17_1/learningjs/wikiviewer/wikiviewer2.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/App.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_primary-nav.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/modules/StickyHeader.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/styles.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/modules/Modal.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_modal.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_wrapper.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_section-title.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_social-icons.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/index.html",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_site-header.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_reveal-item.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/modules/RevealOnScroll.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_large-hero.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_feature-item.css",
+		"/home/ursula/Documents/workspace/travel-site-project/gulp/tasks/styles.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/modules/MobileMenu.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/modules/Person.js",
+		"/home/ursula/Documents/workspace/travel-site-project/gulpfile.js",
+		"/home/ursula/Documents/workspace/travel-site-project/gulp/tasks/watch.js",
+		"/home/ursula/Documents/workspace/travel-site-project/gulp/tasks/scripts.js",
+		"/home/ursula/Documents/workspace/travel-site-project/webpack.config.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/temp/scripts/App.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/webpack.config.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/scripts/app.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_btn.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_generic-content-container.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/base/_global.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/base/_mixins.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_site-footer.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/temp/styles/styles.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_row.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_sprite.css",
+		"/home/ursula/Documents/workspace/travel-site-project/gulp/tasks/sprites.js",
+		"/home/ursula/Documents/workspace/travel-site-project/app/temp/sprite/css/sprite.css",
+		"/home/ursula/Documents/workspace/travel-site-project/gulp/templates/sprites.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_testimonial.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_page-section.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/temp/sprite/youtube.svg",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/modules/_headline.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/base/_variables.css",
+		"/home/ursula/Documents/workspace/travel-site-project/package.json",
+		"/home/ursula/Documents/workspace/travel-site-project/app/assets/styles/_large-hero.css",
+		"/home/ursula/Documents/workspace/travel-site-project/app/styles/styles.css",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr/public/js/sw/index.js",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr_local/public/js/sw/index.js",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr/public/js/idb-test/index.js",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr/public/js/main/IndexController.js",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr_local/public/js/idb-test/index.js",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr_local/public/js/main/IndexController.js",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr/public/scss/_theme.scss",
+		"/home/ursula/Documents/workspace/mobileWeb/wittr/build/public/sw.js",
+		"/home/ursula/Documents/workspace/React16CourseNotes/burger-basics-05-after-navigation/burger-basics--05-after-navigation/src/components/UI/Backdrop/Backdrop.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/Logo/Logo.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/UI/Spinner/Spinner.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/containers/BurgerBuilder/BurgerBuilder.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/axios-orders.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/Navigation/NavBar/NavBar.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/Navigation/SideMenu/SideMenu.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/App.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/hoc/ErrorHandler/ErrorHandler.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/UI/Modal/Modal.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/Burger/OrderSummary/OrderSummary.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/Layout/Layout.js",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/UI/Spinner/Spinner.css",
+		"/home/ursula/Documents/workspace/React16_UdemyCourse/BuildABurger/buildburger/src/components/Navigation/SideMenu/MenuToggle/MenuToggle.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

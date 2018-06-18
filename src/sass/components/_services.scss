@@ -1,0 +1,30 @@
+.services {
+  padding:1.6rem;
+  font-size:1rem;
+  text-align:center;
+  line-height:1.2;
+
+  @include tab-land {
+    width:50%;
+    display: inline-block;
+    font-size:1.5rem;
+  }
+
+  &__heading {
+  	color: $color-red;
+
+    @include tab-land {
+      font-size: 1.5rem;
+    }
+  }
+
+  &__text {
+  	margin-top:1rem;
+  	text-align: justify;
+  	font-size:1.2rem;
+
+    @include tab-land {
+      font-size: 1.5rem;
+    }
+  }
+}

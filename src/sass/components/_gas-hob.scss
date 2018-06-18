@@ -1,0 +1,21 @@
+.gas-hob {
+  text-align:center;
+  margin-top:1.6rem;
+
+  @include tab-land {
+    width: 50%;
+    float:right;
+  }
+
+  &__img {
+  	height:auto;
+  	width:85%;
+  	margin-bottom:1rem;
+  	box-shadow: 0 .5rem 1rem rgba($color-black, .5);
+
+  	 @include tab-port {
+    	width:75%;
+    	margin-bottom: 4rem;
+  	 }
+  }
+}

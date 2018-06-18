@@ -1,0 +1,353 @@
+/*@mixin respond($breakpoint) {
+	@if $breakpoint == phone {
+		@media (min-width: 25em) { @content }; //400px
+	}
+
+	@if $breakpoint == phone-large {
+		@media (min-width:37.5em) { @content }; //600px
+	}
+
+	@if $breakpoint == tab-port {
+		@media (min-width: 43.75em) { @content };	 //700px
+	}
+
+	@if $breakpoint == tab-land {
+		@media (max-width: 62.5em) { @content }; //1000px
+	}
+
+	@if $breakpoint == laptop {
+		@media (min-width: 75em) { @content }; //1200px
+	}
+
+	@if $breakpoint ==laptop-large {
+		@media (min-width:100em) { @content }; //1600px
+	}
+
+	@if $breakpoint == large {
+		@media (min-width: 112.5em) { @content }; //1800px
+	}
+}*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+.html {
+  font-size: 62.5%; }
+
+body {
+  background-image: url("./assets/pexels-photo-164005_wood.jpeg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: cover;
+  height: auto;
+  box-sizing: border-box; }
+
+body {
+  font-family: "Lato", sans-serif; }
+
+.business-logo {
+  display: block;
+  width: 20%;
+  margin: 0 auto;
+  /*&__left {
+		width: 25%;
+		display: table-cell;
+	}
+
+	&__right {
+		width: 75%;
+		display: table-cell;
+		vertical-align:middle;
+		
+	}*/
+  /*&__name {
+		font-size:1.1rem;
+		text-align:center;
+		text-transform: uppercase;
+		background-image: linear-gradient(to right, $color-orange, $color-red);
+		-webkit-background-clip: text;
+		//allows the clipped background to be visible
+		color:transparent;
+
+
+		
+	}*/ }
+  @media (min-width: 43.75em) {
+    .business-logo {
+      margin: 0;
+      float: left;
+      width: 25%; } }
+  .business-logo__logo-img {
+    max-width: 100%;
+    height: auto;
+    padding: .5rem; }
+    @media (min-width: 43.75em) {
+      .business-logo__logo-img {
+        max-width: 60%;
+        padding: 1rem; } }
+    @media (min-width: 75em) {
+      .business-logo__logo-img {
+        max-width: 45%; } }
+
+.checkatrade-ratings {
+  text-align: center;
+  font-size: 1.2rem;
+  width: 100%;
+  margin-top: 3rem; }
+  @media (min-width: 62.5em) {
+    .checkatrade-ratings {
+      margin-top: 0; } }
+  @media (min-width: 62.5em) {
+    .checkatrade-ratings {
+      width: 50%;
+      float: left; } }
+  .checkatrade-ratings__heading {
+    color: #CE0100; }
+    @media (min-width: 62.5em) {
+      .checkatrade-ratings__heading {
+        font-size: 1.5rem; } }
+  .checkatrade-ratings__img {
+    height: auto;
+    max-width: 50%;
+    margin-top: .5rem;
+    margin-bottom: 1.6rem; }
+    @media (min-width: 62.5em) {
+      .checkatrade-ratings__img {
+        margin-top: 5%; } }
+
+.corgi {
+  width: 60%;
+  margin: 0 auto; }
+  @media (min-width: 43.75em) {
+    .corgi {
+      width: 35%;
+      margin: 0;
+      float: right; } }
+  @media (min-width: 75em) {
+    .corgi {
+      width: 25%;
+      margin: 0;
+      float: right; } }
+  .corgi__corgi-logo {
+    height: auto;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 1rem; }
+    @media (min-width: 43.75em) {
+      .corgi__corgi-logo {
+        padding: 1rem; } }
+
+.form__heading {
+  color: #CE0100; }
+  @media (min-width: 62.5em) {
+    .form__heading {
+      font-size: 1.5rem; } }
+
+.form__input {
+  width: 80%;
+  font-family: inherit;
+  font-size: 1rem;
+  border: none;
+  border-bottom: 3px solid transparent;
+  height: 2.5rem;
+  margin-top: 1rem;
+  padding: .3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+  transition: border-bottom .2s; }
+  .form__input:focus:invalid {
+    border-bottom: 3px solid #F26501; }
+
+.form__message {
+  width: 80%;
+  font-family: inherit;
+  font-size: 1rem;
+  height: 9rem;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-top: 1rem;
+  padding: .3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+  transition: border-bottom .2s; }
+  .form__message:focus:invalid {
+    border-bottom: 3px solid #F26501; }
+
+.form__button--btn {
+  color: #fff;
+  background-image: linear-gradient(to bottom, #F18F02, #CE0100);
+  border: none;
+  border-radius: .3rem;
+  width: 5rem;
+  margin-top: .5rem;
+  padding: .3rem .1rem; }
+
+.gas-hob {
+  text-align: center;
+  margin-top: 1.6rem; }
+  @media (min-width: 62.5em) {
+    .gas-hob {
+      width: 50%;
+      float: right; } }
+  .gas-hob__img {
+    height: auto;
+    width: 85%;
+    margin-bottom: 1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5); }
+    @media (min-width: 43.75em) {
+      .gas-hob__img {
+        width: 75%;
+        margin-bottom: 4rem; } }
+
+.services {
+  padding: 1.6rem;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.2; }
+  @media (min-width: 62.5em) {
+    .services {
+      width: 50%;
+      display: inline-block;
+      font-size: 1.5rem; } }
+  .services__heading {
+    color: #CE0100; }
+    @media (min-width: 62.5em) {
+      .services__heading {
+        font-size: 1.5rem; } }
+  .services__text {
+    margin-top: 1rem;
+    text-align: justify;
+    font-size: 1.2rem; }
+    @media (min-width: 62.5em) {
+      .services__text {
+        font-size: 1.5rem; } }
+
+.container {
+  margin: 2rem auto 2rem auto;
+  max-width: 85%;
+  background-color: #F7FAF7;
+  border-radius: .5rem; }
+  @media (min-width: 62.5em) {
+    .container {
+      width: 75%; } }
+
+.page-top {
+  width: 100%;
+  border-top-left-radius: .5rem;
+  border-top-right-radius: .5rem;
+  background-image: linear-gradient(to bottom, #F7F7AD, #F9F945); }
+  @media (min-width: 43.75em) {
+    .page-top {
+      overflow: hidden; } }
+
+.contact-banner {
+  position: relative;
+  width: 100%;
+  line-height: 1.5;
+  height: 20vh; }
+  @media (min-width: 25em) {
+    .contact-banner {
+      height: 30vh; } }
+  @media (min-width: 37.5em) {
+    .contact-banner {
+      line-height: 1.7; } }
+  @media (min-width: 43.75em) {
+    .contact-banner {
+      height: 35vh; } }
+  @media (min-width: 75em) {
+    .contact-banner {
+      height: 50vh; } }
+  @media (min-width: 100em) {
+    .contact-banner {
+      height: 50vh;
+      line-height: 2; } }
+  .contact-banner__kitchen-img {
+    width: 100%;
+    height: 20vh;
+    opacity: .2;
+    display: block; }
+    @media (min-width: 25em) {
+      .contact-banner__kitchen-img {
+        height: 30vh; } }
+    @media (min-width: 43.75em) {
+      .contact-banner__kitchen-img {
+        height: 35vh; } }
+    @media (min-width: 75em) {
+      .contact-banner__kitchen-img {
+        height: 50vh; } }
+  .contact-banner__image-text {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center; }
+  .contact-banner__locations {
+    color: #CE0100;
+    font-size: 1rem;
+    font-weight: 600; }
+    @media (min-width: 43.75em) {
+      .contact-banner__locations {
+        font-size: 1.2rem; } }
+    @media (min-width: 62.5em) {
+      .contact-banner__locations {
+        font-size: 1.5rem; } }
+    @media (min-width: 100em) {
+      .contact-banner__locations {
+        font-size: 2rem; } }
+    .contact-banner__locations--location-item {
+      display: inline;
+      margin-right: .3rem; }
+  .contact-banner__please-call {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #F26501; }
+    @media (min-width: 43.75em) {
+      .contact-banner__please-call {
+        font-size: 2.4rem; } }
+    @media (min-width: 62.5em) {
+      .contact-banner__please-call {
+        font-size: 3rem; } }
+    @media (min-width: 100em) {
+      .contact-banner__please-call {
+        font-size: 3.75rem; } }
+  .contact-banner__phone-number {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #BF0101; }
+    @media (min-width: 43.75em) {
+      .contact-banner__phone-number {
+        font-size: 1.8rem; } }
+    @media (min-width: 62.5em) {
+      .contact-banner__phone-number {
+        font-size: 2.25rem; } }
+    @media (min-width: 100em) {
+      .contact-banner__phone-number {
+        font-size: 2.7rem; } }
+
+.page-middle {
+  width: 100%;
+  margin: 0 auto; }
+
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: block; }
+
+.contact {
+  font-size: 1.2rem;
+  width: 100%;
+  float: none;
+  margin-top: 1.6rem;
+  text-align: center; }
+  @media (min-width: 62.5em) {
+    .contact {
+      width: 50%;
+      float: right; } }
+
+.page-bottom {
+  width: 100%; }
+  @media (min-width: 62.5em) {
+    .page-bottom {
+      margin-top: 3%; } }
